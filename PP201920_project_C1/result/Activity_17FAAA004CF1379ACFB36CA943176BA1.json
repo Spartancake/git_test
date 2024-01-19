@@ -1,0 +1,8 @@
+{
+  "id" : "17FAAA004CF1379ACFB36CA943176BA1",
+  "name" : "13 Cross Country Stadium Dobbiaco/Toblach - direction San Candido (connection to Sesto)",
+  "description" : "This cross country track is needed to connect Dobbiaco/Toblach with San Candido/Innichen and further on with Sesto/Sexten or Sillian.",
+  "types" : [ "loipen", "klassisch und skating" ],
+  "hasGPSTrack" : true,
+  "region" : "Dolomites Region Three Peaks"
+}

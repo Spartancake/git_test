@@ -1,0 +1,1943 @@
+20:55:45.730 [main] INFO  json.generator.DataGetter - 10
+20:55:46.987 [main] INFO  json.generator.DataGetter - Status: 200
+20:56:05.823 [main] INFO  json.generator.DataGetter - 10
+20:56:06.834 [main] INFO  json.generator.DataGetter - Status: 200
+20:56:28.881 [main] INFO  json.generator.DataGetter - 10
+20:56:29.928 [main] INFO  json.generator.DataGetter - Status: 200
+20:56:30.157 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergl�ufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuh�tt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+20:56:30.274 [main] INFO  json.Validator - Valid JSON object! :)
+21:17:17.701 [main] INFO  json.generator.DataGetter - 10
+21:17:18.702 [main] INFO  json.generator.DataGetter - Status: 200
+21:17:18.862 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergl�ufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuh�tt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Gr�blscharte - H�llensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:17:18.866 [main] INFO  json.generator.DataGetter - 10
+21:17:18.869 [main] INFO  json.generator.DataGetter - 10
+21:18:33.365 [main] INFO  json.generator.DataGetter - 10
+21:18:34.385 [main] INFO  json.generator.DataGetter - Status: 200
+21:18:34.514 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergl�ufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuh�tt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Gr�blscharte - H�llensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:18:34.605 [main] INFO  json.Validator - Analysis.json is valid.
+21:18:34.608 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+21:18:34.609 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+21:18:34.610 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+21:18:34.612 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+21:18:34.614 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+21:18:34.616 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+21:18:34.619 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+21:18:34.622 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+21:18:34.623 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+21:18:34.624 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+21:19:56.522 [main] INFO  json.generator.DataGetter - 10
+21:19:57.392 [main] INFO  json.generator.DataGetter - Status: 200
+21:19:57.519 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergl�ufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuh�tt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Gr�blscharte - H�llensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:19:57.592 [main] INFO  json.Validator - Analysis.json is valid.
+21:19:57.594 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+21:19:57.595 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+21:19:57.597 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+21:19:57.598 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+21:19:57.600 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+21:19:57.601 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+21:19:57.603 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+21:19:57.605 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+21:19:57.607 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+21:19:57.610 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+21:37:02.663 [main] INFO  json.generator.DataGetter - 10
+21:37:03.544 [main] INFO  json.generator.DataGetter - Status: 200
+21:37:03.698 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergl�ufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuh�tt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Gr�blscharte - H�llensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:37:03.765 [main] INFO  json.Validator - Analysis.json is valid.
+21:37:03.767 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+21:37:03.769 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+21:37:03.770 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+21:37:03.772 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+21:37:03.773 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+21:37:03.776 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+21:37:03.778 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+21:37:03.780 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+21:37:03.782 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+21:37:03.783 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+21:37:23.563 [main] INFO  json.generator.DataGetter - 10
+21:37:24.466 [main] INFO  json.generator.DataGetter - Status: 200
+21:37:24.644 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergl�ufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuh�tt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:37:24.648 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:37:24.662 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:38:28.605 [main] INFO  json.generator.DataGetter - 10
+21:38:29.790 [main] INFO  json.generator.DataGetter - Status: 200
+21:38:29.985 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergläufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuhütt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:38:30.068 [main] INFO  json.Validator - Analysis.json is valid.
+21:38:30.073 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+21:38:30.074 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+21:38:30.077 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+21:38:30.080 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+21:38:30.081 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+21:38:30.084 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+21:38:30.085 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+21:38:30.088 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+21:38:30.091 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+21:38:30.093 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+21:39:10.220 [main] INFO  json.generator.DataGetter - 10
+21:39:11.595 [main] INFO  json.generator.DataGetter - Status: 200
+21:39:11.742 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergläufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuhütt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:39:11.754 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:39:11.778 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:47:42.510 [main] INFO  json.generator.DataGetter - 10
+21:47:43.594 [main] INFO  json.generator.DataGetter - Status: 200
+21:47:43.777 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergläufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuhütt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:47:43.791 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:47:43.822 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:48:13.932 [main] INFO  json.generator.DataGetter - 10
+21:48:15.058 [main] INFO  json.generator.DataGetter - Status: 200
+21:48:15.236 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergläufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuhütt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:48:58.261 [main] INFO  json.generator.DataGetter - 10
+21:48:59.515 [main] INFO  json.generator.DataGetter - Status: 200
+21:48:59.686 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergläufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuhütt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:48:59.696 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:49:18.440 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:49:18.462 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:49:21.634 [main] INFO  json.generator.DataGetter - 10
+21:49:22.837 [main] INFO  json.generator.DataGetter - Status: 200
+21:49:23.006 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergläufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuhütt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:49:23.018 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:49:23.040 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:51:06.209 [main] INFO  json.generator.DataGetter - 10
+21:52:09.969 [main] INFO  json.generator.DataGetter - 10
+21:52:20.927 [main] INFO  json.generator.DataGetter - 10
+21:52:22.070 [main] INFO  json.generator.DataGetter - Status: 200
+21:52:22.219 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergläufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuhütt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+]
+21:52:22.229 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:52:22.255 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:53:51.613 [main] INFO  json.generator.DataGetter - 20
+21:54:00.469 [main] INFO  json.generator.DataGetter - 20
+21:54:01.757 [main] INFO  json.generator.DataGetter - Status: 200
+21:54:01.985 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergläufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuhütt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='C5F03F691CE72E03EEAE9E5589D65F35'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Cross country ski stadium Dobbiaco/Toblach - Fiames (along the Tour de Ski-track) The cross country track takes along the old railway track from Dobbiaco/Toblach in the direction to Cortina, which was closed in the early 1960s.The nearby road with its several bus stops means that you can leave the trail at virtually any point, for example if you are tired or have problems with your equipment.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B962FCAB4368D334E041D5F0DA07387D'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Cross Country Stadium Dobbiaco/Toblach - Cimabanche/Im Gemärk A long and fantastic tour through the entire Val di Landro valley.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A414943CD7C03E107E6D73D6668A985B'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Cimabanche - Cross country stadio Nordic Arena (variant) A long and fantastic tack through the whole Val di Landro valley.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='4DA19B2B1328127FC062FB79F6F435A5'
+ types='[loipen, klassisch]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Round Vista Three Peaks This loop trail near the icy Landro/Dürrensee Lake, with the fabulous view of the imposing Three Peaks, is every cross-country skier&rsquo;s dream come true.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='743046225CAC40FE02EAE184237DB84F'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Round Val Fonda This is a very quiet trail amidst untouched nature!
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='FD6E51282A0154EC3D5A7BEEF1AB11ED'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12a Pendio classico Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='5BF119C73B1340F4CA69A1510E0F1668'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12b Collegamento Easy slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='965E9F987F73C927194E9923E3118922'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12 Pulpito/Kanzel Moderate slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='3D2CF8DB25909FA1A33314708B0A5A93'
+ types='[laufen und fitness, trail running, bergläufe, laufstrecken]'
+ hasGPSTrack='true'
+ detail= '12 km - Passo Oclini - Redagno in elaboration - in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='C841C0BED1CCDD643955065A696EED34'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '12 Track, Around the Village of Dobbiaco/Toblach Cross-country ski enjoyment on the flawlessly prepared track looping through the beautiful village of Dobbiaco/Toblach.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+]
+21:54:02.003 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:54:16.756 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:54:19.089 [main] INFO  json.generator.DataGetter - 20
+21:54:20.219 [main] INFO  json.generator.DataGetter - Status: 200
+21:54:20.440 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergläufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuhütt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='C5F03F691CE72E03EEAE9E5589D65F35'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Cross country ski stadium Dobbiaco/Toblach - Fiames (along the Tour de Ski-track) The cross country track takes along the old railway track from Dobbiaco/Toblach in the direction to Cortina, which was closed in the early 1960s.The nearby road with its several bus stops means that you can leave the trail at virtually any point, for example if you are tired or have problems with your equipment.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B962FCAB4368D334E041D5F0DA07387D'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Cross Country Stadium Dobbiaco/Toblach - Cimabanche/Im Gemärk A long and fantastic tour through the entire Val di Landro valley.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A414943CD7C03E107E6D73D6668A985B'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Cimabanche - Cross country stadio Nordic Arena (variant) A long and fantastic tack through the whole Val di Landro valley.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='4DA19B2B1328127FC062FB79F6F435A5'
+ types='[loipen, klassisch]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Round Vista Three Peaks This loop trail near the icy Landro/Dürrensee Lake, with the fabulous view of the imposing Three Peaks, is every cross-country skier&rsquo;s dream come true.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='743046225CAC40FE02EAE184237DB84F'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Round Val Fonda This is a very quiet trail amidst untouched nature!
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='FD6E51282A0154EC3D5A7BEEF1AB11ED'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12a Pendio classico Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='5BF119C73B1340F4CA69A1510E0F1668'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12b Collegamento Easy slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='965E9F987F73C927194E9923E3118922'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12 Pulpito/Kanzel Moderate slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='3D2CF8DB25909FA1A33314708B0A5A93'
+ types='[laufen und fitness, trail running, bergläufe, laufstrecken]'
+ hasGPSTrack='true'
+ detail= '12 km - Passo Oclini - Redagno in elaboration - in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='C841C0BED1CCDD643955065A696EED34'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '12 Track, Around the Village of Dobbiaco/Toblach Cross-country ski enjoyment on the flawlessly prepared track looping through the beautiful village of Dobbiaco/Toblach.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+]
+21:54:20.451 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:54:20.470 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+21:57:51.932 [main] INFO  json.generator.DataGetter - Status: 200
+21:57:52.318 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergläufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuhütt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='C5F03F691CE72E03EEAE9E5589D65F35'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Cross country ski stadium Dobbiaco/Toblach - Fiames (along the Tour de Ski-track) The cross country track takes along the old railway track from Dobbiaco/Toblach in the direction to Cortina, which was closed in the early 1960s.The nearby road with its several bus stops means that you can leave the trail at virtually any point, for example if you are tired or have problems with your equipment.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B962FCAB4368D334E041D5F0DA07387D'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Cross Country Stadium Dobbiaco/Toblach - Cimabanche/Im Gemärk A long and fantastic tour through the entire Val di Landro valley.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A414943CD7C03E107E6D73D6668A985B'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Cimabanche - Cross country stadio Nordic Arena (variant) A long and fantastic tack through the whole Val di Landro valley.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='4DA19B2B1328127FC062FB79F6F435A5'
+ types='[loipen, klassisch]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Round Vista Three Peaks This loop trail near the icy Landro/Dürrensee Lake, with the fabulous view of the imposing Three Peaks, is every cross-country skier&rsquo;s dream come true.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='743046225CAC40FE02EAE184237DB84F'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Round Val Fonda This is a very quiet trail amidst untouched nature!
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='FD6E51282A0154EC3D5A7BEEF1AB11ED'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12a Pendio classico Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='5BF119C73B1340F4CA69A1510E0F1668'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12b Collegamento Easy slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='965E9F987F73C927194E9923E3118922'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12 Pulpito/Kanzel Moderate slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='3D2CF8DB25909FA1A33314708B0A5A93'
+ types='[laufen und fitness, trail running, bergläufe, laufstrecken]'
+ hasGPSTrack='true'
+ detail= '12 km - Passo Oclini - Redagno in elaboration - in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='C841C0BED1CCDD643955065A696EED34'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '12 Track, Around the Village of Dobbiaco/Toblach Cross-country ski enjoyment on the flawlessly prepared track looping through the beautiful village of Dobbiaco/Toblach.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='EF5C31FED67C7DEB7FDCCECD12180A79'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '13b Innichen/San Candido Hotel Rehbock/Capriolo- Toblach / Dobbiaco This course is ideal for the coldest winter days, as it is all exposed to the sun; open only if there is enough snow!
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F2D04F76EA1EBD6C8E3AEDD506FBA35A'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '13 San Candido/Innichen chairlift Haunold/Baranci - direction Toblach/Dobbiaco (forest) This cross-country skiing trail is a very easy route which does not require any great effort. There are two routes leading to Dobbiaco: through the woods or across the fields. The same applies to the return route. What is especially interesting when you arrive in Dobbiaco is that you can ski as far as the Nordic Arena cross-country ski centre.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='17FAAA004CF1379ACFB36CA943176BA1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '13 Cross Country Stadium Dobbiaco/Toblach - direction San Candido (connection to Sesto) This cross country track is needed to connect Dobbiaco/Toblach with San Candido/Innichen and further on with Sesto/Sexten or Sillian.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='3B2C4F2B047D2331964301D7AA1C7671'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '13 Discesa di Zay Moderate
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='C04AC23F78350BFCF1CDA5B31EE2D98A'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '14a Des Alpes 2 Easy slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='122FB26FEA02ABE7981EC3B337F6E47B'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '14 Des Alpes 1 Easy slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='D915F3D64A82205102EB177F014D0296'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '15 Innichen/San Candido Hotel Brandl - boarder (AUT) Sunny cross-country trail along the Drava to the Austrian border, flat trail, ideal for beginners. You can continue to Lienz (44 km) and return to San Candido by train; open only if there is enough snow!
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='3626AD8176D23C0A5997CD3F5B718CEC'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '15 Innichen/San Candido Hotel Brandl - Vierschach/Versciaco Sunny cross-country trail along the Drava to the Austrian border, flat trail, ideal for beginners. You can continue to Lienz (44 km) and return to San Candido by train; open only if there is enough snow!
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='EFD61FC94BFDB00D608F26861A62E117'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '15 Ortler Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='FFBF32EE7596962F67898B04B5F3A875'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '16a SEXTEN - Gasthaus "alte säge" - Schmieden Ferrara Shaded cross-country trail along the Rio di Sesto river to Schmieden/Ferrara.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='710CB772E28A6D53EEDA6495BB501262'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '16b SEXTEN - Schmieden Ferrara - Waldheim Shaded cross-country trail along the Rio di Sesto river to Waldheim.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='942C854854BB425958E9DDA69287F20B'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '16 San Candido/Innichen - Sesto/Sexten (Restaurant Alte Säge) This cross-country skiing trail goes along the side of the Sextner Bach stream through idyllic scenery, climbing gently up to Sesto/Sexten. The stream gives this stretch a very special ambience; that&rsquo;s why the locals call it the &ldquo;Pleasure Trail&rdquo; (Genussloipe). The destination is the restaurant &amp; pizzeria "alte süge", which is definitely worth a visit. If you still have the energy on arrival, we recommend continuing on past Sesto and Moso/Moos further into the Fischleintal valley. There you'll find a wonderful skiing trail and the Talschlusshütte mountain hut, which never fails to impress with its stunning location in the Drei Zinnen Nature Park, surrounded by the magnificent Sexten Dolomites.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='C2FC819A4E293DAD44696B571A244767'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '16 Rosim The panoramic slope Rosim, with its view of Ortler, Zebru and Gran Zebr&ugrave;/Künigsspitze, leads directly from the mountain station of the Cable Car Rosim in the Pulpito/Kanzel ski area to the valley station of the cable car Solda/Sulden.
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='C53F0CA4E97AE6566213BE00FEC45D0B'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '16 SEXTEN - Gasthaus "alte säge" - Sesto_Waldheim Shaded cross-country trail along the Rio di Sesto river to the market town of San Candido.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='5FF6181E4CEF3C4E6F87FA8C35008B3D'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '17a SEXTEN - Waldheim - Mühlenhof Along the Rio di Sesto river beneath the Sesto sundial to the Piano Fiscalina hut.  
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='6E83F6E13BD72EF819976C58D86F1509'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '17b SEXTEN - Mühlenhof - Piano Fiscalina Along the Rio di Sesto river beneath the Sesto sundial to the Piano Fiscalina hut.  
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='59F21C4E643285A1A5A8575C7F278929'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '17 SEXTEN - Sesto - Trail from Sesto_Waldheim into the Fischleintal Valley Along the Rio di Sesto river beneath the Sesto sundial to the Piano Fiscalina hut.  
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='483BDC2C5CC12A25D197F5A7AED91872'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '18a SEXTEN - Piano Val Fiscalina - Fondo Valle Sesto has turned many a head with its unique mountain backdrop. It is important, however, not to assume that this village is all about appearances - otherwise you would miss out on a lot! There are plenty of winter landscapes to explore here in every conceivable way: skiing or snowboarding in the Sesto Dolomites - Alta Pusteria ski resort, sledging, cross-country skiing, snow shoe walks, horse-drawn sledge rides or simoly walking. Winter is never boring here! Piano Val Fiscalina - Fondo Valle: Magnificent cross-country trail in the romantic Val Fiscalina valley with views of the Sesto sundial.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='AFCFFF9D239D17CE2F54AF895BAA20D5'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '18b SEXTEN - Circular Trail in the Fischleintal Valley Magnificant circular cross-country trail in the romantic Val Fiscalina valley with views of the Sesto sundial - 500 mt
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8880543191B6EDD01722EA07A32BB32A'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '18 SEXTEN - Circular Trail in the Fischleintal Valley Magnificant circular cross-country trail in the romantic Val Fiscalina valley with views of the Sesto sundial . 
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='7FEF8AF6604814FFA25BEAEE760159B7'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '19 SEXTEN - Circuito Prato Larici Round trip amid the romantic larch meadows in the Fischleintal.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0D37440BB67A7353DE9E7102534DD86D'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '1a Madriccio Easy slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='E5F1D040122D7B6FC3550E91B183E80F'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '1b Discesa a valle Moderate slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='DDCEA9C36E0C1EFC0E6F0B83A4826CC9'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '1c Kanonenrohr Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='3A13CF280B56CD840750C4FF1BE9B56D'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '1 Madriccio The panaromic slope Madritsch 1 is an easy and wide slope with a magic view to the Künigsspitze/Gran Zebr&ugrave;, Ortler and Cevedale.
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='5968129A367155F98AA52175DA22FD02'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '1 Pista Thöni Easy slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='65EA3CA1D89E1547201C7D96B788AB76'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '20 SEXTEN - Circuito Schönfelder Circular loop at the entrance to the Fischleintals, ideal entry from Moos/Moso. 
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='EEA2E3FEAD301A98754BE17E57EFF2D2'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '213 Seiser Alm/Val Gardena scenic tour A timeless gem of a tour: fully enjoy the mountain scenery by saving energy using one of the many lift facilities.
+ region= 'Dolomites Region Seiser Alm
+ region Id= 'D2633A27C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F54DD091208511D84F8A922EA05CE2F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '21a SEXTEN - Circuito Waldheim Circular route and destination for the renowned Pustertaler Ski-Marathon. Ideal for beginners. 
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='439F45CE0D7B910DD45BCA18AFA86C5C'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '21b SEXTEN - Circuito Moso Circular route at Moos/Moso, ideal for beginners. 
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+]
+21:58:46.785 [main] INFO  json.generator.DataGetter - 20
+21:59:03.483 [main] INFO  json.generator.DataGetter - Status: 200
+22:01:03.615 [main] INFO  json.generator.DataGetter - [JsonFileGenerator.Activity {
+ id='01CFEFF8DA586E548327E539276C42F3'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '01 Cross Country Stadio Track Dobbiaco/Toblach Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B66FA66DA650717E0964A4E30A716DAE'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='98DCCBB4D6A1F8CC477D9631A8B703F8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='8683D8A950D921AEC3E8FECADD8928B8'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B633594E831BEE18AF6735D3BAFA01E1'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.
+ region= 'Three Peaks Dolomites
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='28804CF99975D1E3DCCFB1C2619AC03A'
+ types='[radfahren, mountainbikes]'
+ hasGPSTrack='true'
+ detail= '061 Giro Montecosta After the first steep climb the circuit is easy to ride and can be shortened at several points.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='F443A24D8EECD6879F8C45E1F740B311'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '06 Connection Lake of Dobbiaco/Toblach variant A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A98CE134AE5F0111A51DB83F091F259D'
+ types='[laufen und fitness, laufstrecken, bergläufe, trail running]'
+ hasGPSTrack='true'
+ detail= '10 km - Jochgrimm - Neuhütt - Auerleger in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='0A7428B48777B69EB4C1A615926E5F3C'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '10 Langenstein/Orso Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='078883A95FF002AA246B5B99DA5BB9D7'
+ types='[berg, bergtouren, weitere berge, hochtouren]'
+ hasGPSTrack='true'
+ detail= '11 Summit Tour A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Grüblscharte - Hüllensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake AntholzLength 33,0 km D+ 2850 HM D- 2280 HM
+ region= 'Bruneck/Brunico and environs
+ region Id= 'D2633A1BC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='C5F03F691CE72E03EEAE9E5589D65F35'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Cross country ski stadium Dobbiaco/Toblach - Fiames (along the Tour de Ski-track) The cross country track takes along the old railway track from Dobbiaco/Toblach in the direction to Cortina, which was closed in the early 1960s.The nearby road with its several bus stops means that you can leave the trail at virtually any point, for example if you are tired or have problems with your equipment.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='B962FCAB4368D334E041D5F0DA07387D'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Cross Country Stadium Dobbiaco/Toblach - Cimabanche/Im Gemärk A long and fantastic tour through the entire Val di Landro valley.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='A414943CD7C03E107E6D73D6668A985B'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Cimabanche - Cross country stadio Nordic Arena (variant) A long and fantastic tack through the whole Val di Landro valley.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='4DA19B2B1328127FC062FB79F6F435A5'
+ types='[loipen, klassisch]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Round Vista Three Peaks This loop trail near the icy Landro/Dürrensee Lake, with the fabulous view of the imposing Three Peaks, is every cross-country skier&rsquo;s dream come true.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='743046225CAC40FE02EAE184237DB84F'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '11 Dobbiaco/Toblach: Round Val Fonda This is a very quiet trail amidst untouched nature!
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='FD6E51282A0154EC3D5A7BEEF1AB11ED'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12a Pendio classico Difficult slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='5BF119C73B1340F4CA69A1510E0F1668'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12b Collegamento Easy slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='965E9F987F73C927194E9923E3118922'
+ types='[piste, weitere pisten, ski alpin]'
+ hasGPSTrack='true'
+ detail= '12 Pulpito/Kanzel Moderate slope
+ region= 'Vinschgau/Val Venosta
+ region Id= 'D2633A24C24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='3D2CF8DB25909FA1A33314708B0A5A93'
+ types='[laufen und fitness, trail running, bergläufe, laufstrecken]'
+ hasGPSTrack='true'
+ detail= '12 km - Passo Oclini - Redagno in elaboration - in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -in elaboration -
+ region= 'Bolzano/Bozen and environs
+ region Id= 'D2633A1CC24E11D18F1B006097B8970B
+, JsonFileGenerator.Activity {
+ id='C841C0BED1CCDD643955065A696EED34'
+ types='[loipen, klassisch und skating]'
+ hasGPSTrack='true'
+ detail= '12 Track, Around the Village of Dobbiaco/Toblach Cross-country ski enjoyment on the flawlessly prepared track looping through the beautiful village of Dobbiaco/Toblach.
+ region= 'Dolomites Region Three Peaks
+ region Id= 'D2633A1FC24E11D18F1B006097B8970B
+]
+22:01:03.649 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+22:01:03.675 [main] ERROR json.generator.DataGetter - java.io.IOException: Stream closed
+23:34:26.107 [main] INFO  json.generator.ODHActivitiesFetcher - 10
+23:34:26.870 [main] INFO  json.generator.ODHActivitiesFetcher - Status: 200
+23:34:27.132 [main] INFO  json.Validator - Analysis.json is valid.
+23:34:27.134 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+23:34:27.135 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+23:34:27.135 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+23:34:27.136 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+23:34:27.138 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+23:34:27.139 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+23:34:27.141 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+23:34:27.143 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+23:34:27.144 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+23:34:27.145 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+23:36:35.297 [main] INFO  json.generator.ODHActivitiesFetcher - 10
+23:36:36.276 [main] INFO  json.generator.ODHActivitiesFetcher - Status: 200
+23:36:36.613 [main] INFO  json.Validator - Analysis.json is valid.
+23:36:36.615 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+23:36:36.616 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+23:36:36.617 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+23:36:36.618 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+23:36:36.620 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+23:36:36.621 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+23:36:36.622 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+23:36:36.624 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+23:36:36.625 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+23:36:36.626 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+09:00:35.480 [main] INFO  json.generator.ODHActivitiesFetcher - 10
+09:00:36.543 [main] INFO  json.generator.ODHActivitiesFetcher - Status: 200
+09:00:36.917 [main] INFO  json.Validator - Analysis.json is valid.
+09:00:36.920 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+09:00:36.922 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+09:00:36.923 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+09:00:36.924 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+09:00:36.925 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+09:00:36.926 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+09:00:36.928 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+09:00:36.929 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+09:00:36.930 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+09:00:36.931 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+10:33:01.151 [main] INFO  json.generator.ODHActivitiesFetcher - 10
+10:33:01.918 [main] INFO  json.generator.ODHActivitiesFetcher - Status: 200
+10:33:02.195 [main] INFO  json.Validator - Analysis.json is valid.
+10:33:02.197 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+10:33:02.199 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+10:33:02.201 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+10:33:02.203 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+10:33:02.204 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+10:33:02.205 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+10:33:02.207 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+10:33:02.209 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+10:33:02.210 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+10:33:02.211 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+17:39:09.371 [main] INFO  json.generator.ODHActivitiesFetcher - 10
+17:39:10.441 [main] INFO  json.generator.ODHActivitiesFetcher - Status: 200
+17:39:11.405 [main] INFO  json.Validator - Analysis.json is valid.
+17:39:11.409 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+17:39:11.412 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+17:39:11.414 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+17:39:11.417 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+17:39:11.420 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+17:39:11.423 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+17:39:11.426 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+17:39:11.429 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+17:39:11.433 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+17:39:11.436 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+17:39:33.717 [main] INFO  json.generator.ODHActivitiesFetcher - 10
+17:39:34.583 [main] INFO  json.generator.ODHActivitiesFetcher - Status: 200
+17:39:35.056 [main] INFO  json.Validator - Analysis.json is valid.
+17:39:35.059 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+17:39:35.061 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+17:39:35.063 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+17:39:35.064 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+17:39:35.066 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+17:39:35.068 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+17:39:35.069 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+17:39:35.071 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+17:39:35.072 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+17:39:35.074 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+19:53:59.435 [main] INFO  json.generator.ODHActivitiesFetcher - 25
+19:54:00.568 [main] INFO  json.generator.ODHActivitiesFetcher - Status: 200
+19:54:01.358 [main] INFO  json.Validator - Analysis.json is valid.
+19:54:01.365 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+19:54:01.367 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+19:54:01.368 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+19:54:01.369 [main] INFO  json.Validator - Activity_17FAAA004CF1379ACFB36CA943176BA1.json is valid.
+19:54:01.371 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+19:54:01.372 [main] INFO  json.Validator - Activity_3B2C4F2B047D2331964301D7AA1C7671.json is valid.
+19:54:01.374 [main] INFO  json.Validator - Activity_3D2CF8DB25909FA1A33314708B0A5A93.json is valid.
+19:54:01.376 [main] INFO  json.Validator - Activity_4DA19B2B1328127FC062FB79F6F435A5.json is valid.
+19:54:01.378 [main] INFO  json.Validator - Activity_5BF119C73B1340F4CA69A1510E0F1668.json is valid.
+19:54:01.379 [main] INFO  json.Validator - Activity_743046225CAC40FE02EAE184237DB84F.json is valid.
+19:54:01.381 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+19:54:01.382 [main] INFO  json.Validator - Activity_965E9F987F73C927194E9923E3118922.json is valid.
+19:54:01.384 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+19:54:01.385 [main] INFO  json.Validator - Activity_A414943CD7C03E107E6D73D6668A985B.json is valid.
+19:54:01.387 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+19:54:01.389 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+19:54:01.390 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+19:54:01.392 [main] INFO  json.Validator - Activity_B962FCAB4368D334E041D5F0DA07387D.json is valid.
+19:54:01.398 [main] INFO  json.Validator - Activity_C04AC23F78350BFCF1CDA5B31EE2D98A.json is valid.
+19:54:01.399 [main] INFO  json.Validator - Activity_C5F03F691CE72E03EEAE9E5589D65F35.json is valid.
+19:54:01.401 [main] INFO  json.Validator - Activity_C841C0BED1CCDD643955065A696EED34.json is valid.
+19:54:01.403 [main] INFO  json.Validator - Activity_EF5C31FED67C7DEB7FDCCECD12180A79.json is valid.
+19:54:01.404 [main] INFO  json.Validator - Activity_F2D04F76EA1EBD6C8E3AEDD506FBA35A.json is valid.
+19:54:01.406 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+19:54:01.407 [main] INFO  json.Validator - Activity_FD6E51282A0154EC3D5A7BEEF1AB11ED.json is valid.
+19:55:21.020 [main] INFO  json.generator.ODHActivitiesFetcher - 25
+19:55:22.435 [main] INFO  json.generator.ODHActivitiesFetcher - Status: 200
+19:56:44.068 [main] INFO  json.Validator - Analysis.json is valid.
+19:56:44.072 [main] INFO  json.Validator - Activity_01CFEFF8DA586E548327E539276C42F3.json is valid.
+19:56:44.074 [main] INFO  json.Validator - Activity_078883A95FF002AA246B5B99DA5BB9D7.json is valid.
+19:56:44.076 [main] INFO  json.Validator - Activity_0A7428B48777B69EB4C1A615926E5F3C.json is valid.
+19:56:44.078 [main] INFO  json.Validator - Activity_17FAAA004CF1379ACFB36CA943176BA1.json is valid.
+19:56:44.081 [main] INFO  json.Validator - Activity_28804CF99975D1E3DCCFB1C2619AC03A.json is valid.
+19:56:44.083 [main] INFO  json.Validator - Activity_3B2C4F2B047D2331964301D7AA1C7671.json is valid.
+19:56:44.085 [main] INFO  json.Validator - Activity_3D2CF8DB25909FA1A33314708B0A5A93.json is valid.
+19:56:44.087 [main] INFO  json.Validator - Activity_4DA19B2B1328127FC062FB79F6F435A5.json is valid.
+19:56:44.089 [main] INFO  json.Validator - Activity_5BF119C73B1340F4CA69A1510E0F1668.json is valid.
+19:56:44.091 [main] INFO  json.Validator - Activity_743046225CAC40FE02EAE184237DB84F.json is valid.
+19:56:44.093 [main] INFO  json.Validator - Activity_8683D8A950D921AEC3E8FECADD8928B8.json is valid.
+19:56:44.095 [main] INFO  json.Validator - Activity_965E9F987F73C927194E9923E3118922.json is valid.
+19:56:44.098 [main] INFO  json.Validator - Activity_98DCCBB4D6A1F8CC477D9631A8B703F8.json is valid.
+19:56:44.100 [main] INFO  json.Validator - Activity_A414943CD7C03E107E6D73D6668A985B.json is valid.
+19:56:44.102 [main] INFO  json.Validator - Activity_A98CE134AE5F0111A51DB83F091F259D.json is valid.
+19:56:44.105 [main] INFO  json.Validator - Activity_B633594E831BEE18AF6735D3BAFA01E1.json is valid.
+19:56:44.106 [main] INFO  json.Validator - Activity_B66FA66DA650717E0964A4E30A716DAE.json is valid.
+19:56:44.108 [main] INFO  json.Validator - Activity_B962FCAB4368D334E041D5F0DA07387D.json is valid.
+19:56:44.110 [main] INFO  json.Validator - Activity_C04AC23F78350BFCF1CDA5B31EE2D98A.json is valid.
+19:56:44.112 [main] INFO  json.Validator - Activity_C5F03F691CE72E03EEAE9E5589D65F35.json is valid.
+19:56:44.115 [main] INFO  json.Validator - Activity_C841C0BED1CCDD643955065A696EED34.json is valid.
+19:56:44.117 [main] INFO  json.Validator - Activity_EF5C31FED67C7DEB7FDCCECD12180A79.json is valid.
+19:56:44.118 [main] INFO  json.Validator - Activity_F2D04F76EA1EBD6C8E3AEDD506FBA35A.json is valid.
+19:56:44.120 [main] INFO  json.Validator - Activity_F443A24D8EECD6879F8C45E1F740B311.json is valid.
+19:56:44.122 [main] INFO  json.Validator - Activity_FD6E51282A0154EC3D5A7BEEF1AB11ED.json is valid.
+19:57:02.509 [main] INFO  json.generator.ODHActivitiesFetcher - 25
+19:57:03.632 [main] INFO  json.generator.ODHActivitiesFetcher - Status: 200
+16:51:51.166 [main] INFO  json.generator.ODHActivitiesFetcher - 10000
+16:51:56.288 [main] INFO  json.generator.ODHActivitiesFetcher - Status: 200
+16:54:28.572 [main] INFO  json.generator.ODHActivitiesFetcher - 500
+16:54:31.335 [main] INFO  json.generator.ODHActivitiesFetcher - Status: 200
