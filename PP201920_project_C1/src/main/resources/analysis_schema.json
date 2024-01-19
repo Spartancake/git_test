@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "analysis",
+  "description": "analysis of the retrieved data",
+  "type": "object",
+  "properties": {
+    "activitiesTypes:": {
+      "type": "object",
+      "patternProperties": {
+        "^[a-zA-Z]+": {
+          "type": "integer"
+        }
+      }
+    },
+    "trackedActivityIds": {
+      "description": "gps tracked activities' ids",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+      "regionWithMostActivities": {
+        "type": "object",
+        "properties": {
+          "numberOfActivities": {
+            "description": "number of activities in regions with most of them",
+            "type": "integer"
+          },
+          "regionIds": {
+            "description": "regions' IDs",
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      },
+      "regionWithLeastActivities": {
+        "type": "object",
+        "properties": {
+          "numberOfActivities": {
+            "description": "number of activities in regions with least of them",
+            "type": "integer"
+          },
+          "regionIds": {
+            "description": "regions' IDs",
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }}
+

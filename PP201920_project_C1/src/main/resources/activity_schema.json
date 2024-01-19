@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "activity",
+  "description": "activities retrieved from site",
+  "type": [
+    "object",
+    "null"
+  ],
+  "properties": {
+    "id": {
+      "description": "activity's ID",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name": {
+      "description": "Activity's name",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "description": {
+      "description": "Description",
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "types": {
+      "description": "types of activities",
+      "type": "array",
+      "items": {
+        "type": [
+          "string",
+          "null"
+        ]
+
+      }
+    },
+    "hasGPSTrack": {
+      "description": "is the location GPS tracked?",
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "region": {
+      "description": "Region of activity",
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  },
+  "additionalProperties": false
+}
